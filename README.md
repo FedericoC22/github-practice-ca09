@@ -110,3 +110,4 @@
 |78|Xiaoqi Pan| 32 | michelle-pan |https://github.com/michelle-pan/my_website|https://xiaoqipan.netlify.app |2020-10-11
 |79|Luca Toraldo |22|lucatoraldo|<https://github.com/lucatoraldo/my_website00>|<https://lucaswebsite.netlify.app>|2020-10-11|
 |80|Christopher Baumann |34|cjbcoding|<https://github.com/CJBcoding/my_website>|<https://cjbcoding.netlify.app/>|2020-10-12|
+|81|Federico Carrara |24| FedericoC22 | <https://github.com/FedericoC22/my_website.git> | <https://federico-carrara-portfolio.netlify.app> |2020-10-12
